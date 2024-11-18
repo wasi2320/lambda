@@ -1,0 +1,7 @@
+boto3
+botocore
+moviepy==1.0.3
+opencv-python
+typing-extensions
+httpx
+twisted
